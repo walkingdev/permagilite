@@ -1,7 +1,7 @@
 ---
 title: Inscriptions PERMAGILITÉ V-33
 description: Liste pour s'inscrire à la session PERMAGILITÉ V-33
-image_url: https://github.com/walkingdev/permagilite/blob/master/media/banner.jpg
+image_url: https://raw.githubusercontent.com/walkingdev/permagilite/master/media/banner.jpg
 ---
 
 #### Inscriptions

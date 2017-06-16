@@ -1,7 +1,7 @@
 ---
 title: Faq PERMAGILITÉ V-33
 description: Une petite exploration sur la permaculture sans frontale et sans baudrier du côté de Bordeaux.
-image_url: https://github.com/walkingdev/permagilite/blob/master/media/banner.jpg?raw=true
+image_url: https://raw.githubusercontent.com/walkingdev/permagilite/master/media/banner.jpg
 ---
 
 # Session Permagilité - V-33
