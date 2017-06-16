@@ -16,7 +16,7 @@ On profitera du trajet pour débriefer sur la session que l'on vient de faire.
 
 ### C'est quand et où ?
 
-La marche commencera le 27juin à 9h au ~~[Partisan Café](http://www.openstreetmap.org/node/1347108117) au marché des Capucins à Bordeaux - .
+La marche commencera le 27 juin à 9h au [Au Partisan Café](https://www.facebook.com/PartisanCafeCapucins/) - marché des Capucins.
 Et, ça se termine vers 18h30.
 
 ### C'est pour qui ?
@@ -33,7 +33,7 @@ En vrai, on prendra soin de t’accompagner pour que tu puisses explorer avec no
 
 ### On sera combien ?
 
-~~Au moins 2, maximum 10, probablement 6~~. 
+Au moins 2, maximum 10, probablement 6. 
 8, en fait 9
 
 ### Il faut que je prévois des trucs ?
