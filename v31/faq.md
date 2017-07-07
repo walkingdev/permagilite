@@ -1,10 +1,10 @@
 ---
-title: Faq PERMAGILITÉ V-33
+title: Faq PERMAGILITÉ V-31
 description: Une petite exploration sur la permaculture sans frontale et sans baudrier du côté de Bordeaux.
 image_url: https://raw.githubusercontent.com/walkingdev/permagilite/master/media/banner.jpg
 ---
 
-# Session Permagilité - V-33
+# Session Permagilité - V-31
 
 ## FAQ
 
@@ -40,7 +40,7 @@ Au moins 2, maximum 10, probablement 6.
 
 En gros, il faut que tu prennes ton cerveau, ta bonne humeur, de l’eau, des noisettes et de quoi t’habiller confortablement pour marcher.
 
-Pour le détail on a fait une page spécialement pour ça : [Prépare ton escapade](http://walkingdev.fr/#walkingdev/permagilite/blob/master/v33/prepare-ton-escapade.md)
+Pour le détail on a fait une page spécialement pour ça : [Prépare ton escapade](http://walkingdev.fr/#walkingdev/permagilite/blob/master/v31/prepare-ton-escapade.md)
 
 ### On marche beaucoup ?
 
@@ -50,7 +50,7 @@ On a calculé ça en se disant qu’on allait marcher 4 à 6 fois 20 minutes dan
 
 ### Je m'inscris où ?
 
-Tu peux t'inscrire à la prochaine session en éditant cette page sur Github : [v33-inscriptions.md](https://github.com/walkingdev/permagilite/edit/master/v33/inscriptions.md) - et en précisant dans quelle ville tu souhaiterais qu'elle se déroule.
+Tu peux t'inscrire à la prochaine session en éditant cette page sur Github : [v31-inscriptions.md](https://github.com/walkingdev/permagilite/edit/master/v31/inscriptions.md) - et en précisant dans quelle ville tu souhaiterais qu'elle se déroule.
 
 Tu peux aussi nous envoyer un petit mail : [nrichand@gmail.com](mailto:nrichand@gmail.com)
 
@@ -68,7 +68,7 @@ Ne te prive pas de cette super journée pour des problèmes matériels, contacte
 
 Rien n'est décidé pour l'instant. Si tu manges sans gluten, que tu es végétalien ou avec des restrictions alimentaires, préviens nous.
 
-### Pourquoi V-33 ?
+### Pourquoi V-31 ?
 
 C'est pas très explicite, mais en cherchant on trouve quand même facilement le pourquoi du comment.
 
