@@ -16,7 +16,7 @@ On profitera du trajet pour débriefer sur la session que l'on vient de faire.
 
 ### C'est quand et où ?
 
-La marche commencera le 27 juin à 9h au [Au Partisan Café](https://www.facebook.com/PartisanCafeCapucins/) - marché des Capucins.
+La marche commencera le 30 août à 9h.
 Et, ça se termine vers 18h30.
 
 ### C'est pour qui ?
