@@ -12,3 +12,4 @@ Pour plus d'infos, consulte la [FAQ](http://walkingdev.fr/#walkingdev/permagilit
 * *nom - prénom - moyens de contact *
 * Claude Aubry
 * Nathaniel Richand - [mail](mailto:nrichand@gmail.com)
+* Fabrice Aimetti - [mail](mailto:fabrice.aimetti@gmail.com)
