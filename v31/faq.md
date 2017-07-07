@@ -1,6 +1,6 @@
 ---
 title: Faq PERMAGILITÉ V-31
-description: Une petite exploration sur la permaculture sans frontale et sans baudrier du côté de Bordeaux.
+description: Une petite exploration sur la permaculture au service de l'agilité sans frontale et sans baudrier du côté de Toulouse.
 image_url: https://raw.githubusercontent.com/walkingdev/permagilite/master/media/banner.jpg
 ---
 
@@ -52,7 +52,7 @@ On a calculé ça en se disant qu’on allait marcher 4 à 6 fois 20 minutes dan
 
 Tu peux t'inscrire à la prochaine session en éditant cette page sur Github : [v31-inscriptions.md](https://github.com/walkingdev/permagilite/edit/master/v31/inscriptions.md) - et en précisant dans quelle ville tu souhaiterais qu'elle se déroule.
 
-Tu peux aussi nous envoyer un petit mail : [nrichand@gmail.com](mailto:nrichand@gmail.com)
+Tu peux aussi nous envoyer un petit mail : [nrichand@gmail.com](mailto:nrichand@gmail.com) ou [claude.aubry@gmail.com](mailto:claude.aubryd@gmail.com) ou [fabrice.aimetti@gmail.com](mailto:fabrice.aimetti@gmail.com)
 
 ### Ça coûte combien cette petite escapade ?
 
