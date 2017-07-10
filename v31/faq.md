@@ -1,6 +1,6 @@
 ---
 title: Faq PERMAGILITÉ V-31
-description: Une petite exploration sur la permaculture au service de l'agilité sans frontale et sans baudrier du côté de Toulouse.
+description: Une petite exploration sur la permaculture au service de l'agilité, sans frontale et sans baudrier, du côté de Toulouse.
 image_url: https://raw.githubusercontent.com/walkingdev/permagilite/master/media/banner.jpg
 ---
 
@@ -12,16 +12,17 @@ image_url: https://raw.githubusercontent.com/walkingdev/permagilite/master/media
 
 L'idée est d'échanger et de commencer à créer une communauté de réflexion autour de la création d'organisations résilientes inspirées par la permaculture.
 Dans un lieu, en binôme ou en groupe on explore une partie du sujet, via des petits ateliers, présentations, questionnements ou autres expérimentations puis on passe à l'endroit suivant.
-On profitera du trajet pour débriefer sur la session que l'on vient de faire.
+On profite du trajet (à pied) pour débriefer sur la session que l'on vient de faire.
 
 ### C'est quand et où ?
 
-La marche commencera le 30 août à 9h.
-Et, ça se termine vers 18h30.
+C'est le 30 août. On se retrouve vers 9h dans un lieu qui sera révélé au dernier moment.
+La marche commence vers 9h30.
+Et ça se termine vers 18h - 18h30.
 
 ### C'est pour qui ?
 
-- Les personnes impliquées ou curieuses de découvrir la permaculture appliquée aux organisations.
+- Les personnes curieuses de découvrir les idées de la permaculture appliquée aux organisations.
 - Les agilistes souhaitant chatouiller leurs pratiques et pas très alignés avec le scaling™ agile.
 - Les hipsters et hipsteuses kiffant tester l'effet de leurs barbes en se baladant dans la cité.
 
@@ -33,24 +34,24 @@ En vrai, on prendra soin de t’accompagner pour que tu puisses explorer avec no
 
 ### On sera combien ?
 
-Au moins 2, maximum 10, probablement 6. 
-8, en fait 9
+Au moins 3, maximum 12, probablement 6. 
+8, en fait 9 et demi.
 
 ### Il faut que je prévois des trucs ?
 
-En gros, il faut que tu prennes ton cerveau, ta bonne humeur, de l’eau, des noisettes et de quoi t’habiller confortablement pour marcher.
+En gros, il faut que tu prennes ton cerveau, ta bonne humeur, de l’eau, des noisettes et de quoi marcher dans de bonnes conditions.
 
 Pour le détail on a fait une page spécialement pour ça : [Prépare ton escapade](http://walkingdev.fr/#walkingdev/permagilite/blob/master/v31/prepare-ton-escapade.md)
 
 ### On marche beaucoup ?
 
-Une dizaine de kilomètres dans la journée.
+Environ 10000 pas dans la journée, au rythme de 6 fois 20 minutes.
 
-On a calculé ça en se disant qu’on allait marcher 4 à 6 fois 20 minutes dans la journée.
+On a mesuré ça en comptant les pas effectués sur les sessions passées.
 
 ### Je m'inscris où ?
 
-Tu peux t'inscrire à la prochaine session en éditant cette page sur Github : [v31-inscriptions.md](https://github.com/walkingdev/permagilite/edit/master/v31/inscriptions.md) - et en précisant dans quelle ville tu souhaiterais qu'elle se déroule.
+Tu peux t'inscrire à la prochaine session en éditant cette page sur Github : [v31-inscriptions.md](https://github.com/walkingdev/permagilite/edit/master/v31/inscriptions.md) - et en précisant si tu as des souhaits particuliers sur le boire et le manger.
 
 Tu peux aussi nous envoyer un petit mail : [nrichand@gmail.com](mailto:nrichand@gmail.com) ou [claude.aubry@gmail.com](mailto:claude.aubryd@gmail.com) ou [fabrice.aimetti@gmail.com](mailto:fabrice.aimetti@gmail.com)
 
@@ -62,7 +63,7 @@ On pense que ça correspond à peu près à ce que tu vas manger, boire, et aux 
 
 ### Et si c’est trop cher pour moi ?
 
-Ne te prive pas de cette super journée pour des problèmes matériels, contacte-nous, ensemble on va bien trouver une solution ? 
+Ne te prive pas de cette super journée pour des problèmes matériels, contacte-nous, ensemble on va bien trouver une solution.
 
 ### On mangera quoi ?
 
