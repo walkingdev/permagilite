@@ -14,3 +14,4 @@ Pour plus d'infos, consulte la [FAQ](http://walkingdev.fr/#walkingdev/permagilit
 * Nathaniel Richand - [mail](mailto:nrichand@gmail.com)
 * Fabrice Aimetti - [mail](mailto:fabrice.aimetti@gmail.com)
 * David Brocard - [mail](mailto:contact@davidbrocard.org)
+* Stéphane Langlois - [mail](mailto:stephane@scopyleft.fr)
