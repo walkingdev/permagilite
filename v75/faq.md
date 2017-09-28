@@ -4,7 +4,7 @@ description: Une petite exploration sur la permaculture pour enrichir nos pratiq
 image_url: https://raw.githubusercontent.com/walkingdev/permagilite/master/media/banner.jpg
 ---
 
-# Session Permagilité - V-75
+# Session Permagilité - V-75 Paris/Montmartre
 
 ## FAQ
 
@@ -14,16 +14,11 @@ L'idée est d'échanger et de commencer à créer une communauté de réflexion 
 Dans un lieu, en binôme ou en groupe on explore une partie du sujet, via des petits ateliers, présentations, questionnements ou autres expérimentations puis on passe à l'endroit suivant.
 On profite du trajet (à pied) pour débriefer sur la session que l'on vient de faire.
 
-### WalkingDev, j'ai encore du mal à comprendre ?
-
-Consulte le compte rendu du [précédent WalkingDev que nous avions fait à Toulouse](https://blog.agiletribu.com/2017/08/31/walkingdev-permagilite-toulouse/)
-Le lieu et les personnes seront différents donc le résultat sera forcément différent mais ça te donnera une idée de ce à quoi ça pourrait ressembler.
-
-
 ### C'est quand et où ?
 
-C'est le 18 octobre. On se retrouve vers 9h30 dans un lieu qui sera révélé au dernier moment (dans le haut de Montmartre cependant).
+C'est le **18 octobre**. On se retrouve vers 9h30 dans un lieu qui sera révélé au dernier moment (dans le haut de Montmartre cependant).
 Et ça se termine vers 18h - 18h30.
+
 
 ### C'est pour qui ?
 
@@ -31,6 +26,12 @@ Et ça se termine vers 18h - 18h30.
 - Les personnes intéréssées par la création d'écosystèmes humains et durables.
 - Les agilistes souhaitant chatouiller leurs pratiques et pas très alignés avec le scaling™ agile. Si vous êtes certifiées SaFE venez quand même ;)
 - Les hipsters et hipsteuses kiffant tester l'effet de leurs barbes en se baladant dans un endroit plein de touristes.
+
+### WalkingDev, j'ai encore du mal à comprendre ?
+
+Consulte le compte rendu du [précédent WalkingDev que nous avions fait à Toulouse](https://blog.agiletribu.com/2017/08/31/walkingdev-permagilite-toulouse/)
+Le lieu et les personnes seront différents donc le résultat sera forcément différent mais ça te donnera une idée de ce à quoi ça pourrait ressembler.
+
 
 ### Je me sens pas au niveau…
 
