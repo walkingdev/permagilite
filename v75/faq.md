@@ -57,13 +57,13 @@ On a mesuré ça en comptant les pas effectués sur les sessions passées.
 
 ### Je m'inscris où ?
 
-Tu peux t'inscrire à la prochaine session en éditant cette page sur Github : [v75-inscriptions.md](https://github.com/walkingdev/permagilite/edit/master/v75/inscriptions.md) - et en précisant si tu as des souhaits particuliers sur le boire et le manger.
+Tu peux t'inscrire à la prochaine session en éditant cette page sur Github : [v75-inscriptions.md](https://github.com/walkingdev/permagilite/edit/master/v75/inscriptions.md) - et en précisant si tu as des souhaits particuliers sur le boire et le manger. Ou si Github n'est pas ta tasse de thé tu peux aussi t'inscrire [via Meetup](https://www.meetup.com/AgileTribu/events/244138250/)
 
 Tu peux aussi nous envoyer un petit mail : [nrichand@gmail.com](mailto:nrichand@gmail.com)
 
 ### Ça coûte combien cette petite escapade ?
 
-75 € pour les particuliers, et 99 € HT si c’est ta boite qui paye.
+70 € pour les particuliers, et 90 € HT si c’est ta boite qui paye.
 
 Pour ce montant tu pourras manger, voyager et boire durant toute la journée.
 
