@@ -11,3 +11,5 @@ Pour plus d'infos, consulte la [FAQ](http://walkingdev.fr/#walkingdev/permagilit
 
 * *nom - prénom - moyens de contact *
 * Nathaniel Richand - [mail](mailto:nrichand@gmail.com)
+* Julien Dubois
+* Thibaut Apert
