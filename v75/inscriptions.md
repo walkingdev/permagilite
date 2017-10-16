@@ -14,3 +14,6 @@ Pour plus d'infos, consulte la [FAQ](http://walkingdev.fr/#walkingdev/permagilit
 * Julien Dubois
 * Thibaut Apert
 * Philippe Blayo
+* Nicolas Montens
+* Vincent Totey
+* Pierre Bouvier-Muller
